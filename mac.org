@@ -1,0 +1,18 @@
+* word jump issue: Alt + B/F
+  item2 -> preferences -> Profiles -> Keys -> @Bottom: Left Option Act as ECS+
+
+* emacs
+  rm -rf /usr/bin/emacs
+  brew install emacs --cocoa
+
+* Keys:
+** edit:
+  ^ a: head
+  ^ e: tail
+  ^ d: kill char
+  ^ f/b: move by char
+  alt f/b: move by word
+** Web
+  cmd l: url input 
+
+* TODO 平铺桌面
